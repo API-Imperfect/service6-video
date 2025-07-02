@@ -152,7 +152,7 @@ grafana:
 
 statsviz:
 	open http://localhost:3010/debug/statsviz
-	
+
 # ==============================================================================
 tidy:
 	go mod tidy
